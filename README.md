@@ -2,5 +2,6 @@
 Repo to maintain source control for website projects. 
 
 ## IDE
--VSCode
--Google Chrome Browser
+
+- VSCode
+- Google Chrome Browser
