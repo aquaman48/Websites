@@ -5,3 +5,11 @@ Repo to maintain source control for website projects.
 
 - VSCode
 - Google Chrome Browser
+
+## Notes
+
+#### Shortcuts
+* VSCode
+  - CTRL + / (Comment Line)
+
+
