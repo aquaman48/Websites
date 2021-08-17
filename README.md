@@ -11,11 +11,11 @@ Repo to maintain source control for website projects.
 ## Notes
 
 #### Shortcuts
-* VSCode
+- VSCode
   - `CTRL + "/"` (Comment Line)
   - `CTRL + SHIFT + F5` (Restart Browser for debugging)
 
-* Chrome Browser
+- Chrome Browser
   - `CTRL + SHIFT + C` (Select element on page)
 
 
