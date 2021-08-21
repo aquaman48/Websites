@@ -18,6 +18,6 @@ Repo to maintain source control for website projects.
 - Chrome Browser
   - `CTRL + SHIFT + C` (Select element on page)
 
-![FullList](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+** Need to start working on projects. 
 
 
